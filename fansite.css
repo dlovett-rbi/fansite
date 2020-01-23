@@ -1,4 +1,40 @@
-#welcome{
+#welcome {
   font-size: 48px;
   color: rgb(88, 196, 234);
+}
+.hornets {
+  color: teal;
+}
+
+h1 {
+  font-size: 130px;
+  color: purple;
+  margin: 0;
+  background-color: lightgray;
+  margin-top: 60px;
+}
+
+.margin {
+  margin-top: 0;
+}
+
+.largermargin {
+  margin-bottom: 50;
+}
+.center {
+  text-align: center;
+}
+c h3 {
+  font-size: 30px;
+}
+
+.hornetSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.topmargin {
+  margin-top: 100;
 }
